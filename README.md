@@ -1,5 +1,7 @@
 # PROJECT WINE
-## Enjoy reading this
+
+> “I cook with wine, sometimes I even add it to the food.”
+― W.C. Fields
 
 <p align="center">
 <a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0042.gif" border="0" alt="animated-wine-image-0042" /></a>
