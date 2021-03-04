@@ -4,9 +4,12 @@
 <p align="center">
 <a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0042.gif" border="0" alt="animated-wine-image-0042" /></a>
 
+
+
 <details>
 <summary>Used Python Libraries</summary>
-<pre>import pandas as pd
+<pre>
+import pandas as pd
 import numpy as np
 import statistics as st
 import matplotlib.pyplot as plt
@@ -25,5 +28,7 @@ from sklearn.model_selection import cross_val_score
 from sklearn import svm
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import GridSearchCV
-from pylab import savefig<br></pre>
+from pylab import savefig
+<p align="center">
+<a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0005.gif" border="0" alt="animated-wine-image-0005" /></a><br></pre>
 </details>
