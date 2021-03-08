@@ -6,6 +6,9 @@
 <p align="center">
 <a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0042.gif" border="0" alt="animated-wine-image-0042" /></a>
 
+## Introduction:
+
+The purpose of this project was to do preliminary exploration of wine data, with a goal of selecting right attributes for classifying wine into one of the quality categories: poor, normal and excellent. Since the data was already in tidy structure, not much attention was payed in data wrangling, but finding relationships among the attributes and between attributes and the wine quality.
 
 
 <details>
@@ -31,6 +34,8 @@ from sklearn import svm
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import GridSearchCV
 from pylab import savefig
+
+
 <p align="center">
 <a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0005.gif" border="0" alt="animated-wine-image-0005" /></a><br></pre>
 </details>
@@ -40,7 +45,7 @@ from pylab import savefig
 
 ## Wine Type
 
-![](https://placehold.it/200x60/ff0000/000000?text=Red)
+![](https://placehold.it/100x60/ff0000/000000?text=Red)
 
-![](https://placehold.it/200x60/157500/000?text=White)
+![](https://placehold.it/100x60/157500/000?text=White)
 
