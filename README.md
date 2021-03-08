@@ -6,10 +6,24 @@
 <p align="center">
 <a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0042.gif" border="0" alt="animated-wine-image-0042" /></a>
 
+# Table of Contents
+1. [Introduction](#Introduction)
+2. [Assessed Data](#Assessed-Data)
+3. [Data Wrangling](#Data-Wrangling)
+4. [Machine Learning](#Basic-Exploratory-Analysis)
+5. [Facebook Prophet](#facebook-Prophet)
+6. [Flask App](#Flask-App)
+7. [End Note](#End-Note)
+
+
 ## Introduction:
 
-The purpose of this project was to do preliminary exploration of wine data, with a goal of selecting right attributes for classifying wine into one of the quality categories: poor, normal and excellent. Since the data was already in tidy structure, not much attention was payed in data wrangling, but finding relationships among the attributes and between attributes and the wine quality.
+This work of this project is based on two different segmentation 
+The first part of this project was to do preliminary exploration of wine data, with a goal of selecting right attributes for classifying wine into one of the quality categories: low, medium and high. Since the data was already in tidy structure, not much attention was payed in data wrangling, but finding relationships among the attributes and between attributes and the wine quality. And the second part of includes machine learning model. 
 
+
+
+## Assessed Data:
 
 <details>
 <summary>Used Python Libraries</summary>
