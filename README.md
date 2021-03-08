@@ -29,27 +29,27 @@ The first part of this project was to do preliminary exploration of wine data, w
 
 The data assessed in this project has the following attribute Information:
 
-1  fixed acidity - The predominant fixed acids found in wines are tartaric, malic, citric, and succinic. Their respective levels found in wine can vary greatly but in general one would expect to see 1,000 to 4,000 mg/L tartaric acid, 0 to 8,000 mg/L malic acid, 0 to 500 mg/L citric acid, and 500 to 2,000 mg/L succinic acid.
+ fixed acidity - The predominant fixed acids found in wines are tartaric, malic, citric, and succinic. Their respective levels found in wine can vary greatly but in general one would expect to see 1,000 to 4,000 mg/L tartaric acid, 0 to 8,000 mg/L malic acid, 0 to 500 mg/L citric acid, and 500 to 2,000 mg/L succinic acid.
 
-2  volatile acidity - The primary volatile acid in wine is acetic acid, which is also the primary acid associated with the smell and taste of vinegar.
+volatile acidity - The primary volatile acid in wine is acetic acid, which is also the primary acid associated with the smell and taste of vinegar.
 
-3  citric acid - Citric acid is often added to wines to increase acidity, complement a specific flavor or prevent ferric hazes. It can be added to finished wines to increase acidity and give a “fresh” flavor.
+citric acid - Citric acid is often added to wines to increase acidity, complement a specific flavor or prevent ferric hazes. It can be added to finished wines to increase acidity and give a “fresh” flavor.
 
-4  residual sugar - Residual sugar (or RS) refers to the sugars left unfermented in a finished wine. It is measured by grams of sugar per litre (g/l).
+residual sugar - Residual sugar (or RS) refers to the sugars left unfermented in a finished wine. It is measured by grams of sugar per litre (g/l).
 
-5  chlorides - Wine contains from 2 to 4 g L–1 of salts of mineral acids, along with some organic acids, and they may have a key role on a potential salty taste of a wine, with chlorides being a major contributor to saltiness
+chlorides - Wine contains from 2 to 4 g L–1 of salts of mineral acids, along with some organic acids, and they may have a key role on a potential salty taste of a wine, with chlorides being a major contributor to saltiness
 
-6  free sulfur dioxide - Free sulfur dioxide is a measure of the amount of SO2 that is not bound to other molecules, and is used to calculate molecular SO2. Sulfur Dioxide is used throughout all stages of the winemaking process to prevent oxidation and microbial growth.
+free sulfur dioxide - Free sulfur dioxide is a measure of the amount of SO2 that is not bound to other molecules, and is used to calculate molecular SO2. Sulfur Dioxide is used throughout all stages of the winemaking process to prevent oxidation and microbial growth.
 
-7  total sulfur dioxide - Total Sulfur Dioxide (TSO2) is the portion of SO2 that is free in the wine plus the portion that is bound to other chemicals in the wine such as aldehydes, pigments, or sugars.
+total sulfur dioxide - Total Sulfur Dioxide (TSO2) is the portion of SO2 that is free in the wine plus the portion that is bound to other chemicals in the wine such as aldehydes, pigments, or sugars.
 
-8  density - Density is generally used as a measure of the conversion of sugar to alcohol. Here, it’s expressed in g/cm3.
+density - Density is generally used as a measure of the conversion of sugar to alcohol. Here, it’s expressed in g/cm3.
 
-9  pH - The pH level of a wine ranges from 3 to 4. Red wines with higher acidity are more likely to be a bright ruby color, as the lower pH gives them a red hue.
+pH - The pH level of a wine ranges from 3 to 4. Red wines with higher acidity are more likely to be a bright ruby color, as the lower pH gives them a red hue.
 
-10 sulphates - Both sulfates and sulfites are sulfur-based compounds.Sulfites are naturally occurring compounds found in all wines; they act as a preservative by inhibiting microbial growth. Consuming sulfites is generally harmless, and they are found in all kinds of things, from molasses to dried fruit.Even though sulfites are naturally occurring, most winemakers also add sulfur dioxide during the winemaking process to ensure against spoilage.
+sulphates - Both sulfates and sulfites are sulfur-based compounds.Sulfites are naturally occurring compounds found in all wines; they act as a preservative by inhibiting microbial growth. Consuming sulfites is generally harmless, and they are found in all kinds of things, from molasses to dried fruit.Even though sulfites are naturally occurring, most winemakers also add sulfur dioxide during the winemaking process to ensure against spoilage.
 
-11 alcohol - The average glass of wine contains around 11% to 13% alcohol, but bottles range from as little as 5.5% alcohol by volume to as much as around 20% ABV.
+alcohol - The average glass of wine contains around 11% to 13% alcohol, but bottles range from as little as 5.5% alcohol by volume to as much as around 20% ABV.
 
 
 
