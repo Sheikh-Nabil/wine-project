@@ -116,7 +116,25 @@ Add the distance and the index of the example to an ordered collection
 
 [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html):
 
-Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable.
+Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable.The nature of target or dependent variable is dichotomous, which means there would be only two possible classes.
+
+Generally, logistic regression means binary logistic regression having binary target variables, but there can be two more categories of target variables that can be predicted by it. Based on those number of categories, Logistic regression can be divided into following types −
+
+1) Binary or Binomial: 
+
+In such a kind of classification, a dependent variable will have only two possible types either 1 and 0. For example, these variables may represent success or failure, yes or no, win or loss etc.
+
+2) Multinomial:
+
+In such a kind of classification, dependent variable can have 3 or more possible unordered types or the types having no quantitative significance. For example, these variables may represent “Type A” or “Type B” or “Type C”.
+
+3) Ordinal:
+
+In such a kind of classification, dependent variable can have 3 or more possible ordered types or the types having a quantitative significance. For example, these variables may represent “poor” or “good”, “very good”, “Excellent” and each category can have the scores like 0,1,2,3.
+
+
+<p align="center">
+  <img width="500" height="300" src="https://miro.medium.com/max/800/0*gKOV65tvGfY8SMem.pngs">
 
 
 
