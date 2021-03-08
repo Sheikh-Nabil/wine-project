@@ -69,7 +69,29 @@ alcohol - The average glass of wine contains around 11% to 13% alcohol, but bott
 
 ## Data Processing:
 
-This 
+The wine quality data set used here are was presented by [[Cortez et al., 2009]](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub). It was very well structured regarding the data types,Null values and duplicates. Processing the data was only for finding specific insights. 
+
+
+## Machine Learning: 
+
+![]
+
+[Decision Tree](https://scikit-learn.org/stable/modules/tree.html): 
+From a high level, decision tree induction goes through 4 main steps to build the tree:
+
+1) Begin with  training dataset, which should have some feature variables and classification or regression output.
+
+ 2) Determine the “best feature” in the dataset to split the data on; more on how we define “best feature” later.
+ 
+ 3) Split the data into subsets that contain the possible values for this best feature. This splitting basically defines a node on the tree i.e each node is a splitting point based on a certain feature from our data. 
+ 
+ 4) Recursively generate new tree nodes by using the subset of data created from step 3. We keep splitting until we reach a point where we have optimised, by some measure, maximum accuracy while minimising the number of splits / nodes.
+
+
+<p align="center">
+  <img width="500" height="300" src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png">
+</p>
+
 
 
 
