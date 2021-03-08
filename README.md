@@ -91,6 +91,9 @@ From a high level, decision tree induction goes through 4 main steps to build th
 <p align="center">
   <img width="500" height="300" src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png">
 </p>
+<a href="#top">Table of Content</a>
+
+
 
 [K Nearest Neighbour](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html):
 
