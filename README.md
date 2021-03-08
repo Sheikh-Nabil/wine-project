@@ -81,11 +81,11 @@ From a high level, decision tree induction goes through 4 main steps to build th
 
 1) Begin with  training dataset, which should have some feature variables and classification or regression output.
 
- 2) Determine the “best feature” in the dataset to split the data on; more on how we define “best feature” later.
+2) Determine the “best feature” in the dataset to split the data on; more on how we define “best feature” later.
  
- 3) Split the data into subsets that contain the possible values for this best feature. This splitting basically defines a node on the tree i.e each node is a splitting point based on a certain feature from our data. 
+3) Split the data into subsets that contain the possible values for this best feature. This splitting basically defines a node on the tree i.e each node is a splitting point based on a certain feature from our data. 
  
- 4) Recursively generate new tree nodes by using the subset of data created from step 3. We keep splitting until we reach a point where we have optimised, by some measure, maximum accuracy while minimising the number of splits / nodes.
+4) Recursively generate new tree nodes by using the subset of data created from step 3. We keep splitting until we reach a point where we have optimised, by some measure, maximum accuracy while minimising the number of splits / nodes.
 
 
 <p align="center">
