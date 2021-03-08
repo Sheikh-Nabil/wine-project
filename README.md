@@ -27,9 +27,13 @@ The first part of this project was to do preliminary exploration of wine data, w
 ## Used Tools:
 
 ![](https://img.shields.io/badge/Processing-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/ML-Logistic-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/ML-KNN-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/ML-Decision_Tree-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Visualization-SNS_Matplotlib-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
