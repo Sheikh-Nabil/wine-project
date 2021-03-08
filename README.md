@@ -186,5 +186,4 @@ Please follow the social media links of the author_
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<a href="#top">Back to top</a>
-
+<a href="#top">Back to top</a>s
