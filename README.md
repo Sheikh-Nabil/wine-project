@@ -24,6 +24,10 @@ This work of this project is based on two different segmentation
 The first part of this project was to do preliminary exploration of wine data, with a goal of selecting right attributes for classifying wine into one of the quality categories: low, medium and high. Since the data was already in tidy structure, not much attention was payed in data wrangling, but finding relationships among the attributes and between attributes and the wine quality. And the second part of includes machine learning model. 
 
 
+<p align="left">
+<a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0005.gif" border="0" alt="animated-wine-image-0005" /></a><br></pre>
+</details>
+
 ## Used Tools:
 
 ![](https://img.shields.io/badge/Processing-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
