@@ -134,7 +134,7 @@ In such a kind of classification, dependent variable can have 3 or more possible
 
 
 <p align="center">
-  <img width="500" height="300" src="https://miro.medium.com/max/800/0*gKOV65tvGfY8SMem.pngs">
+  <img width="500" height="300" src="https://miro.medium.com/max/800/0*gKOV65tvGfY8SMem.png">
 
 
 
