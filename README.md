@@ -137,15 +137,6 @@ In such a kind of classification, dependent variable can have 3 or more possible
   <img width="500" height="300" src="https://miro.medium.com/max/800/0*gKOV65tvGfY8SMem.png">
 
 
-<details>
-<summary>Refferences</summary>
-<pre>
-
-https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm
-
-https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_logistic_regression.htm
-
-https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
 
 
 ## End Note:
@@ -186,4 +177,14 @@ Please follow the social media links of the author_
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<a href="#top">Back to top</a>s
+<a href="#top">Back to top</a>
+
+<details>
+<summary>Refferences</summary>
+<pre>
+
+https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm
+
+https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_logistic_regression.htm
+
+https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
