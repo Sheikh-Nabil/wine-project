@@ -91,7 +91,7 @@ From a high level, decision tree induction goes through 4 main steps to build th
 <p align="center">
   <img width="500" height="300" src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png">
 </p>
-<a href="#top">Table of Content</a>
+
 
 
 
@@ -158,7 +158,7 @@ Please follow the social media links of the author_
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-
+<a href="#top">Back to top</a>
 
 <details>
 <summary>Used Python Libraries</summary>
