@@ -11,11 +11,7 @@
 2. [Assessed Data](#Assessed-Data)
 3. [Data Wrangling](#Data-Wrangling)
 4. [Machine Learning](#Basic-Exploratory-Analysis)
-
-1. Logistic Regression Model
-2. K nearest neighbour 
-3. Decision Tree Model 
-4. [End Note](#End-Note)
+5. [End Note](#End-Note)
 
 
 
