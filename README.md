@@ -74,9 +74,9 @@ The wine quality data set used here are was presented by [[Cortez et al., 2009]]
 
 ## Machine Learning: 
 
-![]
 
 [Decision Tree](https://scikit-learn.org/stable/modules/tree.html): 
+
 From a high level, decision tree induction goes through 4 main steps to build the tree:
 
 1) Begin with  training dataset, which should have some feature variables and classification or regression output.
@@ -92,6 +92,28 @@ From a high level, decision tree induction goes through 4 main steps to build th
   <img width="500" height="300" src="https://static.javatpoint.com/tutorial/machine-learning/images/decision-tree-classification-algorithm.png">
 </p>
 
+[K Nearest Neighbour](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html):
+
+The KNN Algorithm
+
+1) Load the data
+2) Initialize K to your chosen number of neighbors
+3) For each example in the data, Calculate the distance between the query example and the current example from the data.
+Add the distance and the index of the example to an ordered collection
+
+4) Sort the ordered collection of distances and indices from smallest to largest (in ascending order) by the distances
+5) Pick the first K entries from the sorted collection
+6) Get the labels of the selected K entries
+7) If regression, return the mean of the K labels
+8) If classification, return the mode of the K labels
+
+<p align="center">
+  <img width="500" height="300" src="https://miro.medium.com/max/650/1*OyYyr9qY-w8RkaRh2TKo0w.png">
+</p>
+
+[Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html):
+
+Logistic regression is a supervised learning classification algorithm used to predict the probability of a target variable.
 
 
 
